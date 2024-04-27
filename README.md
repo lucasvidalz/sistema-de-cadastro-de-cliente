@@ -1,4 +1,4 @@
-# Sistema de Gestão de Clientes
+# Sistema de Cadastro de Clientes
 
 Este é um programa simples desenvolvido em Python utilizando a biblioteca Tkinter para criar uma interface gráfica para gerenciar informações de clientes. O programa permite que o usuário insira dados como nome, contato, idade, gênero, endereço e observações dos clientes, salvando essas informações em um arquivo Excel (.xlsx).
 
